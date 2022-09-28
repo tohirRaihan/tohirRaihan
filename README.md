@@ -1,5 +1,4 @@
-### Hi 👋, I am a software engineer working in Dhaka, Bangladesh
-___
+### Hi 👋, I am a Tech Enthusiast, Software Engineer working in Dhaka, Bangladesh
 
 <!--
 **tohirRaihan/tohirRaihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +18,10 @@ Here are some ideas to get you started:
 #### Now
 
 <!-- - ✨ Contributing to [chkware](https://github.com/chkware/cli); -->
-- :fire: Interested in Full Stack Development;
-- :calendar: Looking for contributing to php and nodejs based open source projects 
+
+- :fire: Interested in Full Stack Development
+- :calendar: Looking for contributing to php and nodejs based open source
+  projects
 
 #### Bio
 
@@ -28,8 +29,10 @@ Here are some ideas to get you started:
 - ⚙️ I use daily: `.php`, `.js`, `.cpp`
 - 🌍 I'm mostly active within the **php & javaScript Community**
 - 🌱 Learning all about **Full Stack Development**
-- 💬 Ping me about **Laravel**, **React**, **Node.js**, **php & js**, **RestAPIs**
-- 📫 Reach me: [linkedin.com/in/tohirraihan](https://www.linkedin.com/in/tohirraihan/)
+- 💬 Ping me about **Laravel**, **React**, **Node.js**, **php & js**,
+  **RestAPIs**
+- 📫 Reach me:
+  [linkedin.com/in/tohirraihan](https://www.linkedin.com/in/tohirraihan/)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
 #### My Current Stack:
@@ -43,7 +46,7 @@ Here are some ideas to get you started:
 <b>⚡ Github Stats</b>
 
 <p float="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tohirRaihan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tohirRaihan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohirRaihan&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
