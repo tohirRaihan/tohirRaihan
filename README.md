@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 #### My Current Stack:
 
-<p style="display: flex;align-items: center;">
+<div style="display: flex;align-items: center;">
 <img height="48" src="assets/images/laravel-original.svg" alt="python"> <img height="48" src="assets/images/django-plain-wordmark.svg" alt="Django"> <img height="48" src="assets/images/linux-original.svg" alt="postgress"> <img style="margin: auto" width="48" src="assets/images/php.svg" alt="Docker"> <img height="48" src="assets/images/react-original.svg" alt="linux">
-</p>
+</div>
 
 #### Development Stuffs:
 
