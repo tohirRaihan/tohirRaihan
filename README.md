@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### My Current Stack:
 
 <p>
-<img height="48" width="48" src="assets/images/javascript-original.svg" alt="js"> &nbsp; <img height="36" width="48" src="assets/images/php.svg" alt="php"> &nbsp; <img height="48" src="assets/images/laravel-original.svg" alt="laravel"> &nbsp; <img height="48" width="65" src="assets/images/nodejs.svg" alt="nodejs"> &nbsp; <img height="48" src="assets/images/mysql.svg" alt="mysql"> &nbsp; <img height="48" src="assets/images/linux-original.svg" alt="linux"><img height="55" src="assets/images/mongodb.svg" alt="mongodb"><img height="48" src="assets/images/react-original.svg" alt="linux">
+<img height="48" width="48" src="assets/images/javascript-original.svg" alt="js"> &nbsp; <img height="36" width="48" src="assets/images/php.svg" alt="php"> &nbsp; <img height="48" src="assets/images/laravel-original.svg" alt="laravel"> &nbsp; <img height="48" width="65" src="assets/images/nodejs.svg" alt="nodejs"> &nbsp; <img height="48" src="assets/images/mysql.svg" alt="mysql"> &nbsp; <img height="48" src="assets/images/linux-original.svg" alt="linux"><img height="55" src="assets/images/mongodb.svg" alt="mongodb"><img height="48" src="assets/images/git-original.svg" alt="react"> &nbsp; <img height="48" src="assets/images/react-original.svg" alt="react">
 </p>
 
 #### Development Stuffs:
