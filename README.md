@@ -35,6 +35,13 @@ Here are some ideas to get you started:
   [linkedin.com/in/tohirraihan](https://www.linkedin.com/in/tohirraihan/)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
+#### Skills & Technologies:
+
+- Language: `HTML`, `CSS`, `JavaScript`, `nodejs`, `PHP`, `C++`
+- Framework/Library: `Laravel`, `Express`, `jQuery`, `React`
+- Database: `MySQL`, `MongoDB`
+- Tools: `Git`, `GitHub`, `Linux`, `Trello`
+
 #### My Current Stack:
 
 <p>
