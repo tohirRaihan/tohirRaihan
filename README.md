@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### My Current Stack:
 
 <p>
-<img height="48" src="assets/images/laravel-original.svg" alt="python"> <img height="48" src="assets/images/django-plain-wordmark.svg" alt="Django"> <img height="48" src="assets/images/linux-original.svg" alt="postgress"> <img height="36" width="48" src="assets/images/php.svg" alt="Docker"> <img height="48" src="assets/images/react-original.svg" alt="linux">
+<img height="36" width="48" src="assets/images/php.svg" alt="php"> &nbsp; <img height="48" width="48" src="assets/images/javascript-original.svg" alt="js"> &nbsp; <img height="48" src="assets/images/laravel-original.svg" alt="laravel"> &nbsp; <img height="48" src="assets/images/nodejs.svg" alt="nodejs"> <img height="48" src="assets/images/django-plain-wordmark.svg" alt="Django"> <img height="48" src="assets/images/linux-original.svg" alt="postgress">  <img height="48" src="assets/images/react-original.svg" alt="linux">
 </p>
 
 #### Development Stuffs:
