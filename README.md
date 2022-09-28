@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 #### Now
 
 <!-- - ✨ Contributing to [chkware](https://github.com/chkware/cli); -->
-- :fire: Interested in DevOps and Cloud engineering;
+- :fire: Interested in Full Stack Development;
 - :calendar: Looking for contributing to php and nodejs based open source projects 
 
 #### Bio
 
 - 🏢 I'm currently working at **IT CORNER**
-- ⚙️ I use daily: `.php`, `.js`, `.cpp`, `.sh`
+- ⚙️ I use daily: `.php`, `.js`, `.cpp`
 - 🌍 I'm mostly active within the **php & javaScript Community**
 - 🌱 Learning all about **Full Stack Development**
 - 💬 Ping me about **Laravel**, **React**, **Node.js**, **php & js**, **RestAPIs**
@@ -53,7 +53,3 @@ Here are some ideas to get you started:
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tohir.raihan@gmail.com)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tohirraihan.com)
 [![Skype Badge](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](tohir.raihan)
-
-<!-- [![Behance Badge](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tohir) -->
-
-<!-- [![Binance Badge](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://testnet.bscscan.com/token/0x5e97cae83e111dfb14ac26ec0c3640b4258adb16?a=0xbE472Cd92898E1319931bFA713368FA25B9EB7d0) -->
