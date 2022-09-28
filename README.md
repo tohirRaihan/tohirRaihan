@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### My Current Stack:
 
 <p>
-<img height="36" width="48" src="assets/images/php.svg" alt="php"> &nbsp; <img height="48" width="48" src="assets/images/javascript-original.svg" alt="js"> &nbsp; <img height="48" src="assets/images/laravel-original.svg" alt="laravel"> &nbsp; <img height="48" src="assets/images/nodejs.svg" alt="nodejs"> <img height="48" src="assets/images/django-plain-wordmark.svg" alt="Django"> <img height="48" src="assets/images/linux-original.svg" alt="postgress">  <img height="48" src="assets/images/react-original.svg" alt="linux">
+<img height="48" width="48" src="assets/images/javascript-original.svg" alt="js"> &nbsp; <img height="36" width="48" src="assets/images/php.svg" alt="php"> &nbsp; <img height="48" src="assets/images/laravel-original.svg" alt="laravel"> &nbsp; <img height="48" width="65" src="assets/images/nodejs.svg" alt="nodejs"> &nbsp; <img height="48" src="assets/images/mysql.svg" alt="mysql"> &nbsp; <img height="48" src="assets/images/linux-original.svg" alt="postgress"> &nbsp; <img height="48" src="assets/images/mongodb.svg" alt="mongodb"> &nbsp; <img height="48" src="assets/images/react-original.svg" alt="linux">
 </p>
 
 #### Development Stuffs:
