@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I am a software engineer working in Dhaka, Bangladesh
+___
 
 <!--
 **tohirRaihan/tohirRaihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +16,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Now
+
+<!-- - ✨ Contributing to [chkware](https://github.com/chkware/cli); -->
+- :fire: Interested in DevOps and Cloud engineering;
+- :calendar: Looking for contributing to php and nodejs based open source projects 
+
+#### Bio
+
+- 🏢 I'm currently working at **IT CORNER**
+- ⚙️ I use daily: `.php`, `.js`, `.cpp`, `.sh`
+- 🌍 I'm mostly active within the **php & javaScript Community**
+- 🌱 Learning all about **Full Stack Development**
+- 💬 Ping me about **Laravel**, **React**, **Node.js**, **php & js**, **RestAPIs**
+- 📫 Reach me: [linkedin.com/in/tohirraihan](https://www.linkedin.com/in/tohirraihan/)
+- 📝 Checkout my [Resume](files/resume.pdf).
+
 #### My Current Stack:
 
 <p>
-<img height="48" width="48" src="assets/images/javascript-original.svg" alt="js"> &nbsp; <img height="36" width="48" src="assets/images/php.svg" alt="php"> &nbsp; <img height="48" src="assets/images/laravel-original.svg" alt="laravel"> &nbsp; <img height="48" width="65" src="assets/images/nodejs.svg" alt="nodejs"> &nbsp; <img height="48" src="assets/images/mysql.svg" alt="mysql"> &nbsp; <img height="48" src="assets/images/linux-original.svg" alt="linux"><img height="55" src="assets/images/mongodb.svg" alt="mongodb"><img height="48" src="assets/images/git-original.svg" alt="react"> &nbsp; <img height="48" src="assets/images/react-original.svg" alt="react">
+<img height="48" width="48" src="assets/images/javascript-original.svg" alt="js"> &nbsp;<img height="36" width="48" src="assets/images/php.svg" alt="php"> &nbsp;<img height="48" src="assets/images/laravel-original.svg" alt="laravel"> &nbsp;<img height="48" width="65" src="assets/images/nodejs.svg" alt="nodejs"> &nbsp;<img height="48" src="assets/images/mysql.svg" alt="mysql"> &nbsp;<img height="48" src="assets/images/linux-original.svg" alt="linux"><img height="55" src="assets/images/mongodb.svg" alt="mongodb"><img height="48" src="assets/images/git-original.svg" alt="react"> &nbsp;<img height="48" src="assets/images/react-original.svg" alt="react">
 </p>
 
 #### Development Stuffs:
@@ -37,6 +54,6 @@ Here are some ideas to get you started:
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tohirraihan.com)
 [![Skype Badge](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](tohir.raihan)
 
-<!-- [![Behance Badge](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sumonskys) -->
+<!-- [![Behance Badge](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tohir) -->
 
 <!-- [![Binance Badge](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://testnet.bscscan.com/token/0x5e97cae83e111dfb14ac26ec0c3640b4258adb16?a=0xbE472Cd92898E1319931bFA713368FA25B9EB7d0) -->
