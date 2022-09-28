@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 #### Skills & Technologies:
 
-- Language: `HTML`, `CSS`, `JavaScript`, `nodejs`, `PHP`, `C++`
-- Framework/Library: `Laravel`, `Express`, `jQuery`, `React`
-- Database: `MySQL`, `MongoDB`
-- Tools: `Git`, `GitHub`, `Linux`, `Trello`
+- :cyclone: Language: `HTML`, `CSS`, `JavaScript`, `nodejs`, `PHP`, `C++`
+- :performing_arts: Framework/Library: `Laravel`, `Express`, `jQuery`, `React`
+- :leaves: Database: `MySQL`, `MongoDB`
+- :wrench: Tools: `Git`, `GitHub`, `Linux`, `Trello`
 
 #### My Current Stack:
 
