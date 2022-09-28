@@ -15,6 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### My Current Stack:
+
+<p align="center">
+<img height="48" src="assets/images/laravel-original.svg" alt="python"> <img height="48" src="assets/images/django-plain-wordmark.svg" alt="Django"> <img height="48" src="assets/images/linux-original.svg" alt="postgress"> <img style="margin: auto" height="48" width="48" src="assets/images/php.svg" alt="Docker"> <img height="48" src="assets/images/react-original.svg" alt="linux">
+</p>
+
+#### Development Stuffs:
+
+<b>⚡ Github Stats</b>
+
+<p float="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tohirRaihan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohirRaihan&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
 #### Connect with me!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tohirraihan/)
