@@ -25,20 +25,19 @@ Here are some ideas to get you started:
 
 #### Bio
 
-- 🏢 I'm currently working at **IT CORNER**
-- ⚙️ I use daily: `.php`, `.js`, `.cpp`
-- 🌍 I'm mostly active within the **php & javaScript Community**
+- 🏢 I'm currently working at **Adventure Dhaka Limited**
+- ⚙️ I use daily: `.java`, `.php`, `.js`
+- 🌍 I'm mostly active within the **Java Community**
 - 🌱 Learning all about **Full Stack Development**
-- 💬 Ping me about **Laravel**, **React**, **Node.js**, **php & js**,
-  **RestAPIs**
+- 💬 Ping me about **Java**, **Spring Boot**, **Laravel**, **React**, **Node.js**, **php & js**
 - 📫 Reach me:
   [linkedin.com/in/tohirraihan](https://www.linkedin.com/in/tohirraihan/)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
 #### Skills & Technologies:
 
-- :cyclone: Language: `HTML`, `CSS`, `JavaScript`, `nodejs`, `PHP`, `C++`
-- :performing_arts: Framework/Library: `Laravel`, `Express`, `jQuery`, `React`
+- :cyclone: Language: `Java`, `HTML`, `CSS`, `JavaScript`, `nodejs`, `PHP`, `C++`
+- :performing_arts: Framework/Library: `Spring Boot`, `Laravel`, `Express`, `jQuery`, `React`
 - :leaves: Database: `MySQL`, `MongoDB`
 - :wrench: Tools: `Git`, `GitHub`, `Linux`, `Trello`
 
