@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- - ✨ Contributing to [chkware](https://github.com/chkware/cli); -->
 
-- :fire: Interested in Full Stack Development
-- :calendar: Looking for contributing to php and nodejs based open source
+- :fire: Interested in System Design & Design Patterns
+- :calendar: Looking for contributing to java based open source
   projects
 
 #### Bio
