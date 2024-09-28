@@ -6,17 +6,13 @@ Hey there! 👋 I'm a backend developer passionate about crafting clean, efficie
 
 <p align="left">
   <a href="https://leetcode.com/tohirRaihan">
-    <img title="Leet Code Status" alt="LeetCode Status" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FtohirRaihan&logo=leetcode&logoColor=#d16c06"/>
-  </a> •
+    <img title="Leet Code Status" alt="LeetCode Status" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FtohirRaihan&logo=leetcode&logoColor=#d16c06"/></a> •
   <a href="https://github.com/tohirRaihan?tab=followers">
-    <img title="Follow me on Github" alt="GitHub followers" src="https://img.shields.io/github/followers/tohirRaihan?label=Followers&style=social"/>
-  </a> •
+    <img title="Follow me on Github" alt="GitHub followers" src="https://img.shields.io/github/followers/tohirRaihan?label=Followers&style=social"/></a> •
   <a href="https://github.com/tohirRaihan?tab=repositories&sort=stargazers">
-    <img title="Total stars on GitHub" src="https://img.shields.io/github/stars/tohirRaihan?label=Stars" alt="Total Stars"/>
-  </a> •
+    <img title="Total stars on GitHub" src="https://img.shields.io/github/stars/tohirRaihan?label=Stars" alt="Total Stars"/></a> •
   <a href="https://github.com/tohirRaihan">
-    <img alt = "profile views" src="https://komarev.com/ghpvc/?username=tohirRaihan&style=flat&color=blue"/> 
-  </a>
+    <img alt = "profile views" src="https://komarev.com/ghpvc/?username=tohirRaihan&style=flat&color=blue"/></a>
 </p>
 
 ---
